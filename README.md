@@ -207,5 +207,4 @@ Prediksi Sentimen                  Prediksi Sentimen
                Trade-off Analysis
                         ↓
              Technical Recommendation
-```#   a s s i g n m e n t - m o d e l - e x p e r i m e n t - M - H a r d i a n - J u s u f - H e r d i a n s y a h  
- 
+```
